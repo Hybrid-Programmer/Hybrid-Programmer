@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hybrid-Programmer
-- 👀 I’m interested in web and hybrid app development. 
-- 🌱 I’m currently learning PHP and MySQL
+- 👀 I’m into web and hybrid app development. 
+- 🌱 I currently work with PHP and MySQL for back end tasks 
 - 💞️ I’m looking forward to collaborating on Virtual School app
 - 📫 Email: hybridprogrammer375@gmail.com, okekeebuka928@gmail.com
      Contact: 09026928911, 09091086165 
